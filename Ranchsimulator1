@@ -2,22 +2,22 @@
    "Ads":[
       {
          "app_id":"ca-app-pub-3940256099942544~3347511711",
-         "banner_id":"ca-app-pub-3940256099942544/6300978112",
-         "interstitial_id":"ca-app-pub-3940256099942544/1033173713",
-         "native_id":"ca-app-pub-3940256099942544/2247696114",
+         "banner_id":"",
+         "interstitial_id":"",
+         "native_id":"",
          "qureka_ads":"https://831.win.qureka.com/",
          "status":"true",
          "splash_ads":"false"
       },
       {
          "app_id":"",
-         "banner_id":"554583822236240_554585682236054",
-         "interstitial_id":"554583822236240_554584292236193",
-          "interstitial_id1":"554583822236240_554585112236111",
-          "interstitial_id2":"554583822236240_554585468902742",
-         "native_id":"554583822236240_554585928902696",
-         "native_banner_id":"554583822236240_554586178902671",
-         "rectangle_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "banner_id":"",
+         "interstitial_id":"",
+          "interstitial_id1":"",
+          "interstitial_id2":"",
+         "native_id":"",
+         "native_banner_id":"",
+         "rectangle_banner_id":"",
          "status":"true",
          "splash_ads":"false"
          
